@@ -21,7 +21,6 @@
 
 [![cirojuniorvg GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
 
-<code><img height= "20"src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 
 - Thanks for visiting.
 
