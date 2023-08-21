@@ -4,7 +4,6 @@
 
 ## I'm Ciro!
 
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 
 :computer: I'm Front-End Developer!
 
@@ -22,6 +21,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/ciro-valeriojr/)]( https://www.linkedin.com/in/ciro-valeriojr/)
 
+[![cirojuniorvg GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
 - Thanks for visiting.
 
 - Enjoy it!! o/
