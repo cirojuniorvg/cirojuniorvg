@@ -7,7 +7,7 @@
 
 :computer: I'm Front-End Developer! 💻
 
-:house_with_garden: I’m from Brazil. 🇧🇷
+:house_with_garden: I’m from Brazil. :earth_americas:
 
 :books: I’m currently learning everything. 🧠
 
