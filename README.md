@@ -5,13 +5,13 @@
 ## I'm Ciro!
 
 
-:computer: I'm Front-End Developer!
+:computer: I'm Front-End Developer! 💻
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Brazil. 🇧🇷
 
-:books: I’m currently learning everything.
+:books: I’m currently learning everything. 🧠
 
-:outbox_tray: 2023 Goals: create a new project and find a new job.
+:outbox_tray: 2023 Goals: create a new project and find a new job. 👨‍💼
 
  
 
