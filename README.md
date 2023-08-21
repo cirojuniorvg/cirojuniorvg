@@ -20,7 +20,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cirojuniorvg)](https://github.com/cirojuniorvg)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/ciro-valeriojr/)]([https://github.com/cirojuniorvg](https://www.linkedin.com/in/ciro-valeriojr/)https://www.linkedin.com/in/ciro-valeriojr/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/ciro-valeriojr/)]( https://www.linkedin.com/in/ciro-valeriojr/)
 
 - Thanks for visiting.
 
