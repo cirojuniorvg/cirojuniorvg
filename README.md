@@ -9,7 +9,7 @@
 
 :house_with_garden: I’m from Brazil. :earth_americas:
 
-:books: I’m currently learning C and Java. 🧠
+:books: I’m currently learning React.js and Java. 🧠
 
 :outbox_tray: 2023 Goals: create a new project and find a new job. 👨‍💼
 
