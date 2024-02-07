@@ -11,7 +11,7 @@
 
 :books: I’m currently learning React.js and Java. 🧠
 
-:outbox_tray: 2024 Goals: create a new project and find a new job. 👨‍💼
+:outbox_tray: 2024 Goals: improve my BackEnd skills. 👨‍💼
 
  
 
